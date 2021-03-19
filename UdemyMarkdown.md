@@ -13,3 +13,8 @@ For Italics
 _italics_
 For using underscore in name of variables, use a backslash
 \_var_init\_example
+
+For writing Quotes
+==================
+> Note: This is a mandatory step.
+ 
