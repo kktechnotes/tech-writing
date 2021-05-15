@@ -7,8 +7,21 @@ Git is also used as version control system and is highly used for collaboration.
 
 ### Install Git on Windows
  
-> **Note**: This is the procedure to install Git Bash on the Windows system.
+> **Note**: This is the procedure to install Git Bash on the Windows system and use the Git Bash command line for using Git.
 
 To install Git Bash on Windows 10:
 1. Go to [Git Downloads](https://git.scm.com/downloads)
-2. 
+2. Click **Windows**. The zip file starts to download
+3. Double-click the file and select the **Terms and Conditions** checkbox
+4. Select the text editor and click **Next**. For example, select Notepad++ and then click **Next**
+5. Modify other default settings, if required and click **OK**
+
+### Test Git on your system
+
+To test git on your system:
+1. Open the **Git Bash** application on your system
+2. Run the following command:
+   ```
+   git --version
+   ```
+ >**Result**: The installed version of Git displays.
