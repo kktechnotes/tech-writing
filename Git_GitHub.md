@@ -24,4 +24,17 @@ To test git on your system:
    ```
    git --version
    ```
- >**Result**: The installed version of Git displays.
+ The installed version of Git displays.
+ ## GitHub
+ GitHub is a way to host the content renmotely. If access given, multiple users can read/write new versions.
+ ### Create GitHub Account
+ 
+ ### Repositories
+ + A place that holds a directory structure
+ + Contains files from all the versions (current and history)
+ 
+ #### Create a New Repository on Git Hub
+ 
+ + 
+ 
+
