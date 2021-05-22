@@ -25,6 +25,7 @@ To test git on your system:
    git --version
    ```
  The installed version of Git displays.
+ 
  ## GitHub
  GitHub is a way to host the content renmotely. If access given, multiple users can read/write new versions.
  
