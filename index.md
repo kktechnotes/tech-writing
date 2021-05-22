@@ -27,6 +27,7 @@ To test git on your system:
  The installed version of Git displays.
  ## GitHub
  GitHub is a way to host the content renmotely. If access given, multiple users can read/write new versions.
+ 
  ### Create GitHub Account
  This is a test account.
  
