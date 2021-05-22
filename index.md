@@ -28,6 +28,7 @@ To test git on your system:
  ## GitHub
  GitHub is a way to host the content renmotely. If access given, multiple users can read/write new versions.
  ### Create GitHub Account
+ This is a test account.
  
  ### Repositories
  + A place that holds a directory structure
