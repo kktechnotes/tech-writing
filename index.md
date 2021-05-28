@@ -21,13 +21,14 @@ To install Git Bash on Windows 10:
 To test git on your system:
 1. Open the **Git Bash** application on your system
 2. Run the following command:
+   
    ```
    git --version
    ```
  The installed version of Git displays.
  
  ## GitHub
- GitHub is a way to host the content renmotely. If access given, multiple users can read/write new versions.
+ GitHub is a way to host the content remotely. If access given, multiple users can read/write new versions.
  
  ### Create GitHub Account
  This is a test account.
@@ -38,6 +39,11 @@ To test git on your system:
  
  #### Create a New Repository on Git Hub
  
- + 
+ ## Git Concepts
+ Git four stage files
+ + Unstaged: Local change to a file. Adding or deleting a file
+ + Staged: Something that you have changed and want to save it Git
+ + Committed: Saving it in Git version with a comment or message
+ + Pushed: You have uploaded the file to a server for others to access
  
 
